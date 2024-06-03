@@ -1,2 +1,2 @@
 # studious-palm-tree
-Rust Learning path
+some more learning paths
