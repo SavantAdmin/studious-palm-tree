@@ -1,2 +1,2 @@
 # studious-palm-tree
-some more learning paths
+just some more learning paths
